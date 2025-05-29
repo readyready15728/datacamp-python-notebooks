@@ -1,3 +1,5 @@
 venv
 .ipynb_checkpoints
 data_manipulation_with_pandas/airline_totals_sorted.csv
+introduction_to_data_visualization_with_matplotlib/my_figure.png
+introduction_to_data_visualization_with_matplotlib/my_figure_300dpi.png
